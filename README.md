@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Business Analyst | Aspiring ML Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/githika-chandra-6807b8390">
+  <a href="www.linkedin.com/in/geethika-chandra-6807b8390">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:geethikatunga@gmail.com">
