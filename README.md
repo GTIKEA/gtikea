@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Geethika Tunga</h1>
+<h1 align="center">Hey , I'm Geethika Tunga</h1>
 <h3 align="center">Data Analyst | Business Analyst | Aspiring ML Engineer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 Computer Science graduate specialized in **Cybersecurity** with strong interest in:
 
@@ -28,9 +28,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 📊 Analytics & BI Tools
+###  Analytics & BI Tools
 - SQL
 - Power BI
 - DAX
@@ -38,12 +38,12 @@
 - Data Modeling
 - Data Visualization
 
-### 💻 Programming & Technologies
+###  Programming & Technologies
 - Python
 - Machine Learning
 - Generative AI (Basic)
 
-### 📈 Business Skills
+###  Business Skills
 - Data Analysis
 - Risk Assessment
 - Requirements Gathering
@@ -51,7 +51,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 🔹 Credit Card Delinquency Risk Assessment (EDA Project)
 - Analyzed 12,500 customer credit profiles
@@ -74,7 +74,7 @@
 
 ---
 
-## 📚 Publications
+##  Publications
 
 ### 📄 Unveiling the Art of Signature Verification System – A Hybrid Approach
 Published in:
@@ -84,38 +84,30 @@ Published in:
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - Tata – GenAI Powered Data Analytics Job Simulation
 - Full Stack Development – KodNest
 
 ---
 
-## 🌍 Languages
-
-- English – Proficient
-- Hindi – Advanced
-- Telugu – Native
-
----
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gtikeaE&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtikea&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-📧 Email: geethikatunga@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/githika-chandra-6807b8390
+📧 Email: www.linkedin.com/in/geethika-chandra-6807b8390
 
 ---
 
-⭐ “Turning data into decisions and insights into impact.”
+**⭐ “Turning data into decisions and insights into impact.”**
