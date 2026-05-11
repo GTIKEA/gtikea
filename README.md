@@ -92,18 +92,6 @@ Published in:
 ---
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gtikeaE&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtikea&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ##  Let's Connect
 
  Linkedin: www.linkedin.com/in/geethika-chandra-6807b8390
