@@ -1,5 +1,5 @@
-<h1 align="center">Hey , I'm Geethika Tunga</h1>
-<h3 align="center">Data Analyst | Business Analyst | Aspiring ML Engineer</h3>
+<h1 align="center">Hey, I'm Geethika Tunga</h1>
+<h3 align="center">QA Analyst | Software Tester | Aspiring SDET</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/geethika-chandra-6807b8390/">
@@ -12,90 +12,107 @@
 
 ---
 
-##  About Me
+## About Me
 
 🎓 Computer Science graduate specialized in **Cybersecurity** with strong interest in:
 
-- Data Analytics
-- Business Intelligence
-- Machine Learning
-- Product Analytics
-- Data Visualization
+- Software Testing & Quality Assurance  
+- Manual & API Testing  
+- Automation Testing (Learning: Selenium & Playwright)  
+- Web Application Testing  
+- AI Chatbot Testing  
 
-💡 Passionate about transforming raw data into meaningful business insights using SQL, Python, Power BI, and Machine Learning techniques.
+💡 Passionate about ensuring software quality by identifying defects, validating functionality, and improving user experience through structured testing approaches.
 
 📍 Bengaluru, India
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-###  Analytics & BI Tools
-- SQL
-- Power BI
-- DAX
-- ETL
-- Data Modeling
-- Data Visualization
+### QA & Testing Skills
+- Manual Testing  
+- Functional Testing  
+- Regression Testing  
+- Smoke & Sanity Testing  
+- Test Case Design  
+- Bug Tracking & Reporting  
+- SDLC & STLC  
 
-###  Programming & Technologies
-- Python
-- Machine Learning
-- Generative AI (Basic)
+### Tools
+- Selenium (Basics)  
+- Playwright (Basics)  
+- Jira  
+- Postman  
 
-###  Business Skills
-- Data Analysis
-- Risk Assessment
-- Requirements Gathering
-- Stakeholder Communication
+### Technical Skills
+- SQL  
+- Core Java  
+- API Testing  
+- HTML & CSS  
+
+### Additional Knowledge
+- AI Chatbot Testing  
+- Basic Machine Learning  
+- Generative AI (Basic)  
+
+### Soft Skills
+- Analytical Thinking  
+- Attention to Detail  
+- Problem Solving  
+- Communication  
+- Team Collaboration  
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-### 🔹 Credit Card Delinquency Risk Assessment (EDA Project)
-- Analyzed 12,500 customer credit profiles
-- Identified key delinquency risk factors
-- Performed data cleaning and missing value imputation
-- Built insightful visualizations and risk analysis reports
-- Used AI/GenAI tools for summarization and validation
+### 🔹 AI Chatbot Testing & Response Validation System
+- Performed manual testing on AI chatbot with various prompt scenarios  
+- Designed functional, negative, and consistency test cases  
+- Identified prompt-based vulnerabilities and logged defects  
+- Validated response accuracy and UI functionality  
+
+---
+
+### 🔹 Flight Price Tracker | Data Analytics Project
+- Built a system to analyze airline price trends using SQL  
+- Designed database and executed analytical queries  
+- Created interactive dashboards using Power BI  
+- Gained experience in data validation and reporting  
+
+---
 
 ### 🔹 Signature Verification System – Hybrid Approach
-- Developed an automated handwritten signature verification system
-- Applied Machine Learning models like SVM and CNN
-- Improved accuracy in detecting genuine vs forged signatures
-- Focused on fraud prevention and authentication
-
-### 🔹 Flight Price Tracker | End-to-End Data Analytics
-- Designed SQL-based airline pricing analytics pipeline
-- Built relational schemas and advanced analytical queries
-- Created dashboards for booking trends and pricing insights
-- Simulated real-world data ingestion and analytics workflow
+- Developed a system to verify handwritten signatures  
+- Used SVM and CNN for classification  
+- Improved detection of genuine vs forged signatures  
+- Applied image processing techniques  
 
 ---
 
-##  Publications
+## Publications
 
 ### 📄 Unveiling the Art of Signature Verification System – A Hybrid Approach
-Published in:
-**AIP Conference Proceedings (Scopus Indexed)**
+Published in:  
+**AIP Conference Proceedings (Scopus Indexed)**  
 
-🔗 DOI: https://doi.org/10.1063/5.0247022
-
----
-
-##  Certifications
-
-- Tata – GenAI Powered Data Analytics Job Simulation
-- Full Stack Development – KodNest
+🔗 DOI: https://doi.org/10.1063/5.0247022  
 
 ---
 
+## Certifications
 
-##  Let's Connect
-
- Linkedin: www.linkedin.com/in/geethika-chandra-6807b8390
+- Tata – GenAI Powered Data Analytics Job Simulation (Forage)  
+- Data Visualization – Tata iQ (Forage)  
+- Full Stack Development – KodNest (2025)  
 
 ---
 
-**⭐ “Turning data into decisions and insights into impact.”**
+## Let's Connect
+
+🔗 LinkedIn: www.linkedin.com/in/geethika-chandra-6807b8390  
+
+---
+
+⭐ **“Ensuring quality, reliability, and seamless user experience through testing.”**
